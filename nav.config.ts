@@ -5,7 +5,7 @@ const c: IConfig = {
   // [必填], 请填写您的仓库地址， 地址最后不要带 /
   gitRepoUrl: 'https://github.com/nic519/nav',
 
-  // 部署平台3
+  // 部署平台4
   // 可选 Github | Gitee，如果是 Gitee 上面一定要填写 Gitee 的仓库地址
   // Gitee 官方图片新增防盗链，不要使用上传图片功能，自己填入图片地址
   // 作者Gitee仓库地址 https://gitee.com/xiejiahe/nav
